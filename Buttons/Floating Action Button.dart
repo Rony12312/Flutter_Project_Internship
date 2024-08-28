@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
                 }),
             appBar: AppBar(
               backgroundColor: Colors.blue,
-              title: const Text("Example App"),
+              title: const Text("Floating Action Button"),
             ),
             body: Container()));
   }
