@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         home: Scaffold(
             appBar: AppBar(
               backgroundColor: Colors.blue,
-              title: const Text("Example App"),
+              title: const Text("Icon Button"),
             ),
             body: Container(
               child:IconButton(onPressed: (){
