@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
         home: Scaffold(
             appBar: AppBar(
               backgroundColor: Colors.blue,
-              title: const Text("Radio"),
+              title: const Text("Checkbox"),
             ),
             body: Container(
                 child: Column(children: [
